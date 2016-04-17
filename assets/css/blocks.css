@@ -2339,7 +2339,7 @@
 
 .parallax-quote-in p:after,
 .parallax-quote-in p:before {
-  content: ' " ';
+  content: '  ';
   position: absolute;
   font-family: Tahoma;
 }
