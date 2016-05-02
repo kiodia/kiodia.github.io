@@ -639,7 +639,7 @@ a:hover {
 }
 
 .promo-section {
-  position: relative;
+  position: top;
 }
 .backstretch:after {
   background: rgba(0,0,0,0.1);
@@ -653,12 +653,12 @@ a:hover {
 }
 .promo-section h2 {
   color: #fff;
-  font-size: 35px;
+  font-size: 55px;
   line-height: 1.1;
   font-weight: 200;
   padding: 10px 75px;
   position: relative;
-  border-top: solid 1px #fff;
+  <!-- border-top: solid 1px #fff; -->
   border-bottom: solid 1px #fff;
   text-align: center;
   margin-bottom: 30px;
@@ -666,7 +666,7 @@ a:hover {
 .promo-section h2:after,
 .promo-section h2:before {
   font-size: 16px;
-  content: "\f005";
+  <!-- content: "\f005"; -->
   position: absolute;
   font-family: FontAwesome;
   position: absolute;
