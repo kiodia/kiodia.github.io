@@ -21,7 +21,7 @@
 /*Link List*/
 .footer-v1 .link-list li {
 	/*border-top: solid 1px #353535;*/
-	border-top: solid 1px #7f7f7f;
+	border-top: solid 1px #dadada;
  
 }
 
@@ -29,7 +29,7 @@
 .footer-v1 .link-list a,
 .footer-v1 .link-list i {
 	/*color: #eee;*/
-        color: #272727;
+        color: #353535;
 }
 
 .footer-v1 address {
