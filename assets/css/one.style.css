@@ -16,12 +16,14 @@ body {
   color: #333;
   font-size: 13px;
   line-height: 1.6;
+  <!-- overflow:hidden; -->
 }
 
 html {
   width: 100%;
   height: 100%;
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   color: #555;
@@ -148,7 +150,7 @@ a:hover {
 /*Navbar*/
 .one-page-header {
   border-bottom: none;
-  background: rgba(0,0,0,0.4);
+  background: rgba(0,0,0,0.2);
 }
 .one-page-header .container {
   position: relative;
@@ -639,7 +641,7 @@ a:hover {
 }
 
 .promo-section {
-  position: top;
+  position: relative;
 }
 .backstretch:after {
   background: rgba(0,0,0,0.1);
@@ -653,20 +655,20 @@ a:hover {
 }
 .promo-section h2 {
   color: #fff;
-  font-size: 55px;
+  font-size: 49px;
   line-height: 1.1;
   font-weight: 200;
-  padding: 10px 75px;
+  /* padding: 10px 75px; */
   position: relative;
-  <!-- border-top: solid 1px #fff; 
-  border-bottom: solid 1px #fff; -->
-  text-align: center;
+  /*border-top: solid 1px #fff; */
+  /*border-bottom: solid 1px #fff;*/
+  text-align: left;
   margin-bottom: 30px;
 }
 .promo-section h2:after,
 .promo-section h2:before {
   font-size: 16px;
-  <!-- content: "\f005"; -->
+  /*content: "\f005";*/
   position: absolute;
   font-family: FontAwesome;
   position: absolute;

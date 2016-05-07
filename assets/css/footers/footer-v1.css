@@ -2,7 +2,8 @@
 ------------------------------------*/
 .footer-v1 .footer {
 	padding: 40px 0;	
-	background: #272727;
+	/*background: #272727;*/
+	background: #FEFEFE;
 }
 
 .footer-v1 .footer p {
@@ -17,7 +18,8 @@
 
 /*Link List*/
 .footer-v1 .link-list li {
-	border-top: solid 1px #353535;
+	/*border-top: solid 1px #353535;*/
+	border-top: solid 1px #ffffff;
 }
 
 .footer-v1 address,
@@ -46,7 +48,8 @@
 
 /*Copyright*/
 .footer-v1 .copyright {
-	background: #222;
+	/*background: #222;*/
+	background: #7F7F7F;
 	border-top: none;
 	padding: 10px 0 5px;
 }
