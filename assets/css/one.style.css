@@ -654,8 +654,8 @@ a:hover {
   content: "";
 }
 .promo-section h2 {
-  color: #fff;
-  /*color: #555555;*/
+  /*color: #fff;*/
+  color: #555555;
   font-size: 49px;
   line-height: 1.1;
   font-weight: 200;
@@ -716,7 +716,7 @@ a:hover {
 .promo-section h2,
 .promo-text,
 .promo-next {
-  opacity: 0.97;
+  opacity: 0.95;
 }
 
 @media (max-width: 600px) {

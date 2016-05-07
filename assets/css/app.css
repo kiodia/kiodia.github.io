@@ -68,7 +68,8 @@ h1 i, h2 i, h3 i, h4 i, h5 i, h6 i {
 .headline {
 	display: block;
 	margin: 10px 0 25px 0;
-	border-bottom: 1px dotted #e4e9f0;
+	/*border-bottom: 1px dotted #e4e9f0;*/
+        border-bottom: 1px dotted #7f7f7f;
 
 
 }
@@ -84,7 +85,7 @@ h1 i, h2 i, h3 i, h4 i, h5 i, h6 i {
 	padding-bottom: 5px;
 	display: inline-block;
 	/*border-bottom: 2px solid #72c02c;*/
-	/*border-bottom: 2px solid #4F4F;*/
+	border-bottom: 2px solid #4765a0;
 
 }
 

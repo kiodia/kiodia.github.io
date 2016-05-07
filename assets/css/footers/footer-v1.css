@@ -3,7 +3,7 @@
 .footer-v1 .footer {
 	padding: 40px 0;	
 	/*background: #272727;*/
-	background: #FEFEFE;
+	background: #fEfefe;
 }
 
 .footer-v1 .footer p {
@@ -13,7 +13,7 @@
 
 .footer-v1 .footer h2 {
 	/*color: #eee; */
-        color: #757575;
+        color: #0;
 	font-size: 18px;
 	font-weight: 200;
 }
@@ -53,7 +53,7 @@
 /*Copyright*/
 .footer-v1 .copyright {
 	/*background: #222;*/
-	background: #7F7F7F;
+	background: #a0a0a0;
 	border-top: none;
 	padding: 10px 0 5px;
 }
