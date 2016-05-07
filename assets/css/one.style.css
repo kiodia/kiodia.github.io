@@ -16,7 +16,7 @@ body {
   color: #333;
   font-size: 13px;
   line-height: 1.6;
-  <!-- overflow:hidden; -->
+  /*overflow:hidden;*/
 }
 
 html {
@@ -150,7 +150,7 @@ a:hover {
 /*Navbar*/
 .one-page-header {
   border-bottom: none;
-  background: rgba(0,0,0,0.2);
+  background: rgba(0,0,0,0.7);
 }
 .one-page-header .container {
   position: relative;
@@ -644,7 +644,7 @@ a:hover {
   position: relative;
 }
 .backstretch:after {
-  background: rgba(0,0,0,0.1);
+  background: rgba(0,0,0,0.0);
   position: absolute;
   top: 0;
   left: 0;
@@ -655,6 +655,7 @@ a:hover {
 }
 .promo-section h2 {
   color: #fff;
+  /*color: #555555;*/
   font-size: 49px;
   line-height: 1.1;
   font-weight: 200;
@@ -662,7 +663,7 @@ a:hover {
   position: relative;
   /*border-top: solid 1px #fff; */
   /*border-bottom: solid 1px #fff;*/
-  text-align: left;
+  text-align: center;
   margin-bottom: 30px;
 }
 .promo-section h2:after,
@@ -682,7 +683,8 @@ a:hover {
   left: 4%;
 }
 .promo-text {
-  color: #fff;
+  /*color: #fff;*/
+  color: #555555;
   position: relative;
   font-size: 26px;
   font-weight: 200;
@@ -714,7 +716,7 @@ a:hover {
 .promo-section h2,
 .promo-text,
 .promo-next {
-  opacity: .9;
+  opacity: 0.97;
 }
 
 @media (max-width: 600px) {

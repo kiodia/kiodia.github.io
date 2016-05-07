@@ -2331,7 +2331,7 @@
 }
 
 .parallax-quote-in p {
-  color: #0;
+  color: #555555;
   font-size: 28px;
   text-transform: uppercase;
   font-family: "Open Sans", Arial, sans-serif;
@@ -4467,7 +4467,7 @@
 	line-height: 1.5;
 	text-transform: uppercase;
 	font-family: "Open Sans", Arial, sans-serif;
-        background: transparent url(../bg/img/img01.jpg) no-repeat center top / cover;
+        /*background: transparent url(../bg/img/img01.jpg) no-repeat center top / cover;*/
 }
 
 .ms-promo-info-in {

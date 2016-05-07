@@ -7,11 +7,13 @@
 }
 
 .footer-v1 .footer p {
-	color: #eee;
+	/*color: #eee;*/
+        color: #7f7f7f;
 }
 
 .footer-v1 .footer h2 {
-	color: #eee;
+	/*color: #eee; */
+        color: #7f7f7f;
 	font-size: 18px;
 	font-weight: 200;
 }
@@ -19,13 +21,15 @@
 /*Link List*/
 .footer-v1 .link-list li {
 	/*border-top: solid 1px #353535;*/
-	border-top: solid 1px #ffffff;
+	border-top: solid 1px #7f7f7f;
+ 
 }
 
 .footer-v1 address,
 .footer-v1 .link-list a,
 .footer-v1 .link-list i {
-	color: #eee;
+	/*color: #eee;*/
+        color: #7f7f7f;
 }
 
 .footer-v1 address {
