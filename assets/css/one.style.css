@@ -150,7 +150,7 @@ a:hover {
 /*Navbar*/
 .one-page-header {
   border-bottom: none;
-  background: rgba(0,0,0,0.7);
+  background: rgba(0,0,0,0.0);
 }
 .one-page-header .container {
   position: relative;

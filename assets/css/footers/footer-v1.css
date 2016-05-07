@@ -8,12 +8,12 @@
 
 .footer-v1 .footer p {
 	/*color: #eee;*/
-        color: #7f7f7f;
+        color: #555555;
 }
 
 .footer-v1 .footer h2 {
 	/*color: #eee; */
-        color: #7f7f7f;
+        color: #757575;
 	font-size: 18px;
 	font-weight: 200;
 }
@@ -29,7 +29,7 @@
 .footer-v1 .link-list a,
 .footer-v1 .link-list i {
 	/*color: #eee;*/
-        color: #7f7f7f;
+        color: #272727;
 }
 
 .footer-v1 address {
