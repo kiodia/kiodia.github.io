@@ -130,6 +130,16 @@ var App = function() {
       //handleLangs();
       handleFullscreen();
       handleValignMiddle();
+
+    /*-----------------------------------------------------------------
+     * Preloader
+     *-----------------------------------------------------------------*/
+
+    var $preloader = $('#preloader'),
+        $loader = $preloader.find('.loader');
+
+    $loader.fadeOut();
+    $preloader.delay(500).fadeOut('slow');
     },
 
     initCounter: function() {

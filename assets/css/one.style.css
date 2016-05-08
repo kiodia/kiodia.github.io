@@ -640,11 +640,88 @@ a:hover {
   border-top-color: #72c02c;
 }
 
+
+/*
+ * Preloader
+ *-----------*/
+
+#preloader {
+    /*display: none;*/
+    position: fixed;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, .9);
+}
+
+#preloader .loader {
+
+    position: absolute;
+    right: 10%;
+    top: 80%;
+
+    font-family: inherit;
+    font-size: 20px;
+    text-transform: lowercase;
+}
+
+#preloader .loader::after {
+
+    display: block;
+    content: '';
+
+    margin-top: 10px;
+
+    height: 2px;
+    width: 10px;
+    background: #777;
+
+    float: right;
+
+    -webkit-animation: 1.9s loader infinite;
+         -o-animation: 1.9s loader infinite;
+            animation: 1.9s loader infinite;
+}
+
+@-webkit-keyframes loader {
+
+    0% {
+        width: 5%;
+    }
+
+    50% {
+        width: 100%;
+    }
+
+    100% {
+        width: 5%;
+    }
+
+}
+
+@keyframes loader {
+
+    0% {
+        width: 5%;
+    }
+
+    50% {
+        width: 100%;
+    }
+
+    100% {
+        width: 5%;
+    }
+
+}
+
 .promo-section {
   position: relative;
 }
 .backstretch:after {
-  background: rgba(0,0,0,0.15);
+  background: rgba(0,0,0,0.0);
   position: absolute;
   top: 0;
   left: 0;
@@ -716,7 +793,7 @@ a:hover {
 .promo-section h2,
 .promo-text,
 .promo-next {
-  opacity: 0.95;
+  opacity: 0.97;
 }
 
 @media (max-width: 600px) {
