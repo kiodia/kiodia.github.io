@@ -717,6 +717,40 @@ a:hover {
 
 }
 
+#home {
+    height: 100%;
+    background: transparent url('../img/home-one.png') no-repeat center top / cover;
+}
+
+.header-text {
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    margin: auto;
+
+    width: 950px;
+    height: 170px;
+    /*width: 600px;
+    height: 900px;*/
+    max-width: 90%;
+
+    max-height: 50%;
+    color: #555555;
+    /*letter-spacing: 10px;*/
+    text-align: left;
+    /*text-transform: uppercase;*/
+
+}
+
+.header-text nav {
+    /*letter-spacing: 3px;*/
+}
+
+
 .promo-section {
   position: relative;
 }
@@ -731,8 +765,8 @@ a:hover {
   content: "";
 }
 .promo-section h2 {
-  color: #fff;
-  /*color: #555555;*/
+  /*color: #fff;*/
+  color: #555555;
   font-size: 49px;
   line-height: 1.1;
   font-weight: 200;
@@ -760,8 +794,8 @@ a:hover {
   left: 4%;
 }
 .promo-text {
-  color: #fff;
-  /*color: #555555;*/
+  /*color: #fff;*/
+  color: #555555;
   position: relative;
   font-size: 26px;
   font-weight: 200;

@@ -132,6 +132,17 @@ var App = function() {
       handleValignMiddle();
 
     /*-----------------------------------------------------------------
+     * Parallax
+     *-----------------------------------------------------------------*/
+
+    $.stellar({
+        responsive: true,
+        horizontalOffset: 0,
+        verticalOffset: 0,
+        horizontalScrolling: false,
+        hideDistantElements: false
+    });
+    /*-----------------------------------------------------------------
      * Preloader
      *-----------------------------------------------------------------*/
 
