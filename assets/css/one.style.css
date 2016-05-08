@@ -644,7 +644,7 @@ a:hover {
   position: relative;
 }
 .backstretch:after {
-  background: rgba(0,0,0,0.0);
+  background: rgba(0,0,0,0.15);
   position: absolute;
   top: 0;
   left: 0;
@@ -654,8 +654,8 @@ a:hover {
   content: "";
 }
 .promo-section h2 {
-  /*color: #fff;*/
-  color: #555555;
+  color: #fff;
+  /*color: #555555;*/
   font-size: 49px;
   line-height: 1.1;
   font-weight: 200;
@@ -683,8 +683,8 @@ a:hover {
   left: 4%;
 }
 .promo-text {
-  /*color: #fff;*/
-  color: #555555;
+  color: #fff;
+  /*color: #555555;*/
   position: relative;
   font-size: 26px;
   font-weight: 200;
