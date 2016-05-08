@@ -719,7 +719,7 @@ a:hover {
 
 #home {
     height: 100%;
-    background: transparent url('../img/home-one.png') no-repeat center top / cover;
+    background: transparent url(../img/home-one.png) no-repeat center top / cover;
 }
 
 .header-text {
