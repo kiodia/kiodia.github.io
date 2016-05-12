@@ -2310,7 +2310,7 @@
   height: 100%;
   content: " ";
   position: absolute;
-  background: rgba(0,0,0,0.0);
+  background: rgba(0,0,0,0.5);
 }
 
 .parallax-quote:before {
@@ -2331,7 +2331,7 @@
 }
 
 .parallax-quote-in p {
-  color: #555555;
+  color: #FFFFFF;
   font-size: 28px;
   text-transform: uppercase;
   font-family: "Open Sans", Arial, sans-serif;
