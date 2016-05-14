@@ -157,7 +157,8 @@ a:hover {
 }
 
 .one-page-header .navbar-nav > li > a {
-  color: #eee;
+  /*color: #eee;*/
+       color: #4765a0;
   font-size: 12.5px;
   text-transform: uppercase;
   padding: 17px 15px 13px;
@@ -578,6 +579,7 @@ a:hover {
 
 .one-page-header.top-nav-collapse .navbar-toggle:hover .icon-bar {
   background: #72c02c;
+
 }
 
 /*Intro Section

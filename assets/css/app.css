@@ -76,6 +76,7 @@ h1 i, h2 i, h3 i, h4 i, h5 i, h6 i {
 
 .headline h2 {
 	font-size: 22px;
+       color: #4765a0; /* RvK */
 }
 
 .headline h2,
@@ -192,7 +193,8 @@ h1 i, h2 i, h3 i, h4 i, h5 i, h6 i {
 
 .title-v1 h1,
 .title-v1 h2 {
-	color: #444;
+	/*color: #444; */
+        color: #4765a0;
 	font-size: 28px;
 	position: relative;
 	margin-bottom: 15px;
@@ -478,6 +480,7 @@ h2.heading-sm,
 h3.heading-md {
 	font-size: 18px;
 	line-height: 24px;
+        color: #4765a0; /* RvK */
 }
 
 h3.heading-md {
