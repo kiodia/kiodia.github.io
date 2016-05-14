@@ -85,7 +85,7 @@ h1 i, h2 i, h3 i, h4 i, h5 i, h6 i {
 	padding-bottom: 5px;
 	display: inline-block;
 	/*border-bottom: 2px solid #72c02c;*/
-	border-bottom: 2px solid #4765a0;
+	border-bottom: 3px solid #4765a0;
 
 }
 
@@ -205,7 +205,7 @@ h1 i, h2 i, h3 i, h4 i, h5 i, h6 i {
 .title-v1 h2:after {
 	bottom: 0;
 	left: 50%;
-	height: 1px;
+	height: 3px;
 	width: 70px;
 	content: " ";
 	margin-left: -35px;

@@ -606,7 +606,7 @@ a:hover {
 }
 
 .about-section .about-image {
-  padding-top: 100px;
+  padding-top: 50px;
 }
 
 /*Icon Lists*/
@@ -739,7 +739,6 @@ a:hover {
     max-width: 100%;
 
     max-height: 70%;
-    /*color: #252525;*/
     color: #FFFFFF;
     /*letter-spacing: 10px;*/
     text-align: left;
@@ -767,8 +766,8 @@ a:hover {
   content: "";
 }
 .promo-section h2 {
-  /*color: #fff;*/
-  color: #353535;
+  color: #4765a0;
+  /*color: #353535;*/
   font-size: 45px;
   letter-spacing: 10px;
   line-height: 1.1;
@@ -799,6 +798,7 @@ a:hover {
 .promo-text {
   /*color: #fff;*/
   color: #353535;
+  /* color: #4765a0; */
   position: relative;
   font-size: 26px;
   font-weight: 200;
@@ -813,7 +813,8 @@ a:hover {
   height: 1px;
   width: 100px;
   bottom: -10px;
-  background: #fff;
+  /*background: #fff;*/
+  background: #353535;
   margin-left: -50px;
   position: absolute;
 }
