@@ -157,9 +157,9 @@ a:hover {
 }
 
 .one-page-header .navbar-nav > li > a {
-  /*color: #eee; */
+  color: #eee;
   /*color: #4765a0; */
-  color: #353535;
+  /*color: #353535;*/
   font-size: 12.5px;
   text-transform: uppercase;
   padding: 17px 15px 13px;
@@ -771,6 +771,7 @@ a:hover {
 .promo-section h2 {
   /*color: #4765a0; */
   color: #353535;
+  /*color: #fff;*/
   font-size: 45px;
   letter-spacing: 12px;
   line-height: 1.1;
@@ -799,8 +800,8 @@ a:hover {
   left: 4%;
 }
 .promo-text {
-  /*color: #fff;*/
-  color: #353535;
+ 
+  /*color: #353535;*/
   /* color: #4765a0; */
   position: relative;
   font-size: 26px;
