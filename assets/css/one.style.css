@@ -775,7 +775,7 @@ a:hover {
   color: #353535;
   /*color: #fff;*/
   font-size: 54px;
-  letter-spacing: 15px;
+  letter-spacing: 12px;
   line-height: 1.1;
   font-weight: 200;
   /*padding: 10px 75px;*/
@@ -838,7 +838,7 @@ a:hover {
 .promo-section h2,
 .promo-text,
 .promo-next {
-  opacity: 0.95;
+  opacity: 1.0;
 }
 
 @media (max-width: 600px) {
