@@ -722,7 +722,7 @@ a:hover {
 
 #home {
     height: 100%;
-    background: transparent url(../img/home-one-v0.jpg) no-repeat center top / cover;
+    background: transparent url(../img/home-one-v4.jpg) no-repeat center top / cover;
 
 }
 
@@ -774,8 +774,8 @@ a:hover {
   color: #4765a0;
   /*color: #353535; */
   /*color: #fff;*/
-  font-size: 39px;
-  letter-spacing: 15px;
+  font-size: 42px;
+  letter-spacing: 12px;
   line-height: 1.1;
   font-weight: 400;
   /*padding: 10px 75px;*/
