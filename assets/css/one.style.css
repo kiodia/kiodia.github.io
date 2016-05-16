@@ -820,8 +820,8 @@ a:hover {
   height: 1.4px;
   width: 100px;
   bottom: -10px;
-  /*background: #fff;*/
-  background: #353535;
+  background: #fff;
+  /*background: #353535;*/
   margin-left: -50px;
   position: absolute;
 }
