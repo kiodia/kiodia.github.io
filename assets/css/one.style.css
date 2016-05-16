@@ -817,7 +817,7 @@ a:hover {
 .promo-text:after {
   left: 50%;
   content: "";
-  height: 1.4px;
+  height: 1px;
   width: 100px;
   bottom: -10px;
   background: #fff;
