@@ -158,7 +158,7 @@ a:hover {
 
 .one-page-header .navbar-nav > li > a {
   color: #eee;
-  /*color: #4765a0; */
+  /*color: #4765a0;*/
   color: #353535;
   font-size: 12.5px;
   text-transform: uppercase;
@@ -778,7 +778,7 @@ a:hover {
   letter-spacing: 15px;
   line-height: 1.1;
   font-weight: 200;
-  /* padding: 10px 75px; */
+  /*padding: 10px 75px;*/
   position: relative;
   /*border-top: solid 1px #fff; */
   /*border-bottom: solid 1px #fff;*/
@@ -838,7 +838,7 @@ a:hover {
 .promo-section h2,
 .promo-text,
 .promo-next {
-  opacity: 1.0;
+  opacity: 0.95;
 }
 
 @media (max-width: 600px) {
