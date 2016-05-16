@@ -772,9 +772,9 @@ a:hover {
 }
 .promo-section h2 {
   /*color: #4765a0; */
-  /*color: #353535;*/
-  color: #fff;
-  font-size: 45px;
+  color: #353535;
+  /*color: #fff;*/
+  font-size: 35px;
   letter-spacing: 12px;
   line-height: 1.1;
   font-weight: 200;
@@ -803,10 +803,11 @@ a:hover {
 }
 .promo-text {
  
-  /*color: #353535;*/
+  color: #353535;
   /* color: #4765a0; */
   position: relative;
-  font-size: 26px;
+  /*  font-size: 26px; */
+  font-size: 24px;
   font-weight: 200;
   line-height: 40px;
   padding: 10px 50px;
@@ -816,11 +817,11 @@ a:hover {
 .promo-text:after {
   left: 50%;
   content: "";
-  height: 1px;
+  height: 2px;
   width: 100px;
   bottom: -10px;
-  background: #fff;
-  /*background: #353535;*/
+  /*background: #fff;*/
+  background: #353535;
   margin-left: -50px;
   position: absolute;
 }
