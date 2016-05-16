@@ -157,9 +157,9 @@ a:hover {
 }
 
 .one-page-header .navbar-nav > li > a {
-  color: #eee;
-  /*color: #4765a0;*/
-  color: #353535;
+  /*color: #eee;*/
+  color: #4765a0;
+  /*color: #353535;*/
   font-size: 12.5px;
   text-transform: uppercase;
   padding: 17px 15px 13px;
@@ -722,7 +722,7 @@ a:hover {
 
 #home {
     height: 100%;
-    background: transparent url(../img/home-one.jpg) no-repeat center top / cover;
+    background: transparent url(../img/home-one-v0.jpg) no-repeat center top / cover;
 
 }
 
@@ -771,11 +771,11 @@ a:hover {
   content: "";
 }
 .promo-section h2 {
-  /*color: #4765a0; */
-  color: #353535;
+  color: #4765a0;
+  /*color: #353535; */
   /*color: #fff;*/
-  font-size: 49px;
-  letter-spacing: 15px;
+  font-size: 45px;
+  letter-spacing: 12px;
   line-height: 1.1;
   font-weight: 400;
   /*padding: 10px 75px;*/
@@ -803,11 +803,11 @@ a:hover {
 }
 .promo-text {
  
-  color: #353535;
-  /* color: #4765a0; */
+  color: #353535; 
+  /*color: #4765a0; */
   position: relative;
   /*  font-size: 26px; */
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 200;
   line-height: 40px;
   padding: 10px 50px;
@@ -820,8 +820,8 @@ a:hover {
   height: 1px;
   width: 100px;
   bottom: -10px;
-  background: #fff;
-  /*background: #353535;*/
+  /*background: #fff;*/
+  background: #353535;
   margin-left: -50px;
   position: absolute;
 }
