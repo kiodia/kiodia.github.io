@@ -136,7 +136,7 @@ var App = function() {
      *-----------------------------------------------------------------*/
 
     $.stellar({
-        responsive: true,
+        responsive: false,
         horizontalOffset: 0,
         verticalOffset: 0,
         horizontalScrolling: false,
