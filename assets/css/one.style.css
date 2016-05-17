@@ -16,7 +16,6 @@ body {
   color: #333;
   font-size: 13px;
   line-height: 1.6;
-  background-attachment: fixed ;
   /* overflow:hidden; */
 }
 
@@ -734,9 +733,7 @@ a:hover {
     right: 0;
     bottom: 0;
     left: 0;
-
     margin: auto;
-
     width: 950px;
     height: 250px;
     /*width: 600px;
@@ -748,9 +745,7 @@ a:hover {
     /*letter-spacing: 10px;*/
     text-align: left;
     /*text-transform: uppercase;*/
-
-
-
+    background-attachment: fixed;
 }
 
 .header-text nav {
