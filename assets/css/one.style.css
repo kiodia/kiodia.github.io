@@ -720,10 +720,14 @@ a:hover {
 
 }
 
+.home {
+    background-attachment: fixed;
+    /*height: 400px;*/
+}
+
 #home {
     height: 100%;
     background: transparent url(../img/home-one-v4.jpg) no-repeat center top / cover;
-    background-attachment: fixed;
 }
 
 .header-text {
